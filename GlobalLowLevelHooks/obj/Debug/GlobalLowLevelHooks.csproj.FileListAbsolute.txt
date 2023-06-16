@@ -4,3 +4,9 @@ C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\GlobalL
 C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\GlobalLowLevelHooks\obj\Debug\GlobalLowLevelHooks.csproj.CoreCompileInputs.cache
 C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\GlobalLowLevelHooks\obj\Debug\GlobalLowLevelHooks.dll
 C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\GlobalLowLevelHooks\obj\Debug\GlobalLowLevelHooks.pdb
+C:\Repos\barcode_hid_to_http\GlobalLowLevelHooks\bin\Debug\GlobalLowLevelHooks.dll
+C:\Repos\barcode_hid_to_http\GlobalLowLevelHooks\bin\Debug\GlobalLowLevelHooks.pdb
+C:\Repos\barcode_hid_to_http\GlobalLowLevelHooks\obj\Debug\GlobalLowLevelHooks.csproj.AssemblyReference.cache
+C:\Repos\barcode_hid_to_http\GlobalLowLevelHooks\obj\Debug\GlobalLowLevelHooks.csproj.CoreCompileInputs.cache
+C:\Repos\barcode_hid_to_http\GlobalLowLevelHooks\obj\Debug\GlobalLowLevelHooks.dll
+C:\Repos\barcode_hid_to_http\GlobalLowLevelHooks\obj\Debug\GlobalLowLevelHooks.pdb

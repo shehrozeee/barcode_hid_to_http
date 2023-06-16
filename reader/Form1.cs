@@ -24,17 +24,21 @@ namespace reader
 
         }
 
+        private StringBuilder barcodeBuilder = new StringBuilder();
         void KeyboardHook_KeyDown(KeyboardHook.VKeys key)
         {
             if (key != KeyboardHook.VKeys.RETURN)
             {
                 char key_code = ((char)key);
                 Console.Write(key_code.ToString().Trim());
+                barcodeBuilder.Append(key_code.ToString().Trim());
             }
             else
             {
-                Console.WriteLine();
-                Console.WriteLine("GotBarcode");
+
+                barcodeBuilder.Clear();
+                //Console.WriteLine();
+                //Console.WriteLine("GotBarcode");
             }
         }
     }
