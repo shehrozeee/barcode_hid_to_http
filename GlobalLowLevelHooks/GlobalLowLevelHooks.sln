@@ -5,8 +5,6 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalLowLevelHooks", "GlobalLowLevelHooks.csproj", "{77EB5498-54DD-4DCA-AFF6-F9B2C6F97FE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "barcodereader", "..\barcodereader\barcodereader.csproj", "{FE4204F8-BB57-4C55-AE00-3B73E8C836A3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reader", "..\reader\reader.csproj", "{4AD21760-82A7-4EAE-BDD9-81F6E2BBD6C1}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{77EB5498-54DD-4DCA-AFF6-F9B2C6F97FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77EB5498-54DD-4DCA-AFF6-F9B2C6F97FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77EB5498-54DD-4DCA-AFF6-F9B2C6F97FE3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FE4204F8-BB57-4C55-AE00-3B73E8C836A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FE4204F8-BB57-4C55-AE00-3B73E8C836A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FE4204F8-BB57-4C55-AE00-3B73E8C836A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FE4204F8-BB57-4C55-AE00-3B73E8C836A3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4AD21760-82A7-4EAE-BDD9-81F6E2BBD6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4AD21760-82A7-4EAE-BDD9-81F6E2BBD6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AD21760-82A7-4EAE-BDD9-81F6E2BBD6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
