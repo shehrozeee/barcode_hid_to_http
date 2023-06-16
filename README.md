@@ -1,3 +1,13 @@
+# HID Barcode reader to Http endpoint
+A simple windows form application that uses the Global-Low-Level-Key-Board-And-Mouse-Hook library and sends data to a predefined http endpoint whenever a
+barcode is read by the reader. For my use case this is installed on a headless machine and there is no keyboard input to mess up things here. 
+this will be running a mini pc and will be bringing the barcode reader input to my http service.
+
+
+
+
+
+
 # Global-Low-Level-Key-Board-And-Mouse-Hook
 A simple description and sample of creating a global low level keyboard And Mouse hook in C#
 
