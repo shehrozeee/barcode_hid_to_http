@@ -1,0 +1,6 @@
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\GlobalLowLevelHooks\bin\Debug\GlobalLowLevelHooks.dll
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\GlobalLowLevelHooks\bin\Debug\GlobalLowLevelHooks.pdb
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\GlobalLowLevelHooks\obj\Debug\GlobalLowLevelHooks.csproj.AssemblyReference.cache
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\GlobalLowLevelHooks\obj\Debug\GlobalLowLevelHooks.csproj.CoreCompileInputs.cache
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\GlobalLowLevelHooks\obj\Debug\GlobalLowLevelHooks.dll
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\GlobalLowLevelHooks\obj\Debug\GlobalLowLevelHooks.pdb

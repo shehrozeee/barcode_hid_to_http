@@ -1,0 +1,13 @@
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\bin\Debug\reader.exe.config
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\bin\Debug\reader.exe
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\bin\Debug\reader.pdb
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\bin\Debug\GlobalLowLevelHooks.dll
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\bin\Debug\GlobalLowLevelHooks.pdb
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\obj\Debug\reader.csproj.AssemblyReference.cache
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\obj\Debug\reader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\obj\Debug\reader.Properties.Resources.resources
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\obj\Debug\reader.csproj.GenerateResource.cache
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\obj\Debug\reader.csproj.CoreCompileInputs.cache
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\obj\Debug\reader.csproj.CopyComplete
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\obj\Debug\reader.exe
+C:\Users\Shehroze\source\repos\Global-Low-Level-Key-Board-And-Mouse-Hook\reader\obj\Debug\reader.pdb
