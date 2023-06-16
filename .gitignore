@@ -5,5 +5,5 @@
 *.suo
 /GlobalLowLevelHooks/.vs/GlobalLowLevelHooks/v17/.suo
 /GlobalLowLevelHooks/packages
-/reader/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-/reader/obj/Debug/reader.csproj.AssemblyReference.cache
+/reader/obj
+/reader/obj/*

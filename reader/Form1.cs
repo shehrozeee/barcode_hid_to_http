@@ -1,4 +1,5 @@
 ﻿using GlobalLowLevelHooks;
+using RestSharp;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -23,8 +24,12 @@ namespace reader
             keyboardHook.KeyDown += KeyboardHook_KeyDown;
 
         }
-
+        List<string> BarcodesToSend = new List<string>();
         private StringBuilder barcodeBuilder = new StringBuilder();
+        string protocal = "http";
+        string server = "localhost";
+        string port = "5137";
+        string endpoint = "/api/Barcode/SubmitBarcode/";
         void KeyboardHook_KeyDown(KeyboardHook.VKeys key)
         {
             if (key != KeyboardHook.VKeys.RETURN)
@@ -35,8 +40,26 @@ namespace reader
             }
             else
             {
-
+                string barcode = barcodeBuilder.ToString();
                 barcodeBuilder.Clear();
+                BarcodesToSend.Add(barcode);
+                foreach (string code in BarcodesToSend)
+                { 
+                    var client = new RestClient($"{protocal}://{server}:{port}{endpoint}{barcode}");
+                    var request = new RestRequest();
+                    request.Method = Method.Get;
+                    request.AddHeader("accept", "text/plain");
+                    var response = client.Execute(request);
+                    var success = response.Content == "OK";
+                    if (success)
+                    {
+                        BarcodesToSend.Remove(code);
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
                 //Console.WriteLine();
                 //Console.WriteLine("GotBarcode");
             }
